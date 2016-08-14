@@ -5,7 +5,7 @@
 Summary:  A free pretty much fully featured and stable TrueCrypt implementation
 Name:     tcplay
 Version:  2.0
-Release:  0
+Release:  1
 License:  BSD and Public Domain
 Group:    File tools
 URL:      https://github.com/bwalex/tc-play
